@@ -1,0 +1,10 @@
+{
+  "name": "Streamer",
+  "description": "A music streaming service",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "binaryjs": "0.x",
+    "express": "3.x"
+  }
+}
